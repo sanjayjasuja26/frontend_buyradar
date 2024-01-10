@@ -1,0 +1,222 @@
+{
+  "global": {
+    "viewMore": "View More",
+    "failedToFetch": "Failed to fetch products. Try to reload page.",
+    "somethingWentWrong": "Something went wrong.",
+    "pageDoesNotExists": "The page you are looking for does not exist.",
+    "tryDifferentSearch": "Try different search.",
+    "searchResults": "Search Results",
+    "notAvailable": "N/A",
+    "noProductsFound": "No products found.",
+    "submit": "Submit"
+  },
+  "suggestedForYou": "Suggested for you",
+  "header": {
+    "searchProducts": "Search Products...",
+    "noResultFoundTryDifferentSearch": "No result found. Try different search.",
+    "home": "Home",
+    "browse": "Browse",
+    "contactUS":"Contact Us",
+    "welcome": "Welcome",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "home": {
+    "topCollections": {
+      "topCollections": "Top Collections",
+      "lifeStyle": "Life Style",
+      "kids": "Kids",
+      "healthBeauty": "Health & Beauty",
+      "jewelery": "Jewelery"
+    },
+    "justForYou": "Just For You",
+    "shopLocal": "Shop Local",
+    "shobByCategories": "Shop By Categories",
+    "shopByBrands": "Shop By Brands",
+    "deals": {
+      "getTheApp": "Get the app",
+      "dealTextOne": "Each purchase will be made with",
+      "dealTextTwo": "Pleasure",
+      "dealTextThree": "We work with global brands and have",
+      "dealTextFour": "created an application for you to do your shopping",
+      "shopNow": "Shop Now",
+      "dealOfTheDay": "DEAL OF THE DAY",
+      "01": "01",
+      "12": "12",
+      "37": "37",
+      "44": "44"
+    },
+    "categories": "Categories"
+  },
+  "product": {
+    "pickUp": "Pickup",
+    "receiveBy": "Receive By",
+    "pickupAt": "Pickup at",
+    "supportLocalEconomy": "Support local economy",
+    "by": "By",
+    "deal": "Deal",
+    "viewDeal": "View Deal",
+    "addToCart": "Add to Cart",
+    "inCorrectPrice":"InCorrect Price?",
+    "addTargetPrice": "Add target price",
+    "reportIncorrectPrice":"Report Incorrect Price",
+    "addYourTargetPriceForNotification": "Add your target price, we will send you notifications when prices go above or below your targets",
+    "incorrectPriceNotification":"We try our best to keep price up to date. if you fund a mistake or an outdated price, please report below",
+    "priceRange": "Price range",
+    "addAlert": "Add Alert",
+    "goodDeal": "Good Deal",
+    "normalDeal": "Bad Deal",
+    "averageDeal": "Average Deal",
+    "badDeal": "Normal Deal",
+    "itemSupportLocalEconomy": "Item Support local economy",
+    "madeInUSA": "Made in",
+    "ecoFriendly": "Eco Friendly",
+    "priceHistory": {
+      "priceHistory": "Price History",
+      "lowestPrice": "Lowest Price",
+      "highestPrice": "Highest Price",
+      "currentPrice": "Current Price",
+      "current": "Current",
+      "highest": "Highest",
+      "lowest": "Lowest"
+    },
+    "productDetails": "Product details",
+    "customerReviews": "Customer Reviews",
+    "minAgo": "min ago",
+    "noReviews": "No reviews",
+    "similarProducts": "Similar products",
+    "recommended": "Recommended"
+  },
+  "footer": {
+    "aboutUs": "ABOUT US",
+    "myAccount": "MY ACCOUNT",
+    "aboutCompany": "About company",
+    "careers": "Careers",
+    "storeLocator": "Store Locator",
+    "payments": "Payments",
+    "profile": "Profile",
+    "orderHistory": "Order History",
+    "orderStatus": "Order Status",
+    "customerCare": "CUSTOMER CARE",
+    "contactUs": "Contact Us",
+    "customerFeedback": "Customer Feedback",
+    "shippingPolicy": "Shipping Policy",
+    "privacyPolicy": "Privacy Policy",
+    "complaintInquiryForm": "Complaint/Inquiry Form",
+    "returnExchangePolicy": "Return & Exchange Policy",
+    "termsConditions": "Terms and Conditions",
+    "faq": "FAQ"
+  },
+  "subscribeNow": {
+    "subscribeNow": "Subscribe Now",
+    "joinUsForNews": "Join us and get all the latest news, trends and offers straight to your inbox.",
+    "subscribe": "Subscribe",
+    "enterYourEmail": "Enter Your Email"
+  },
+  "auth": {
+    "loginHereToContinue": "",
+    "registerNow": "Register now",
+    "dontHaveAccount": "Don't have an account?",
+    "enterEmail": "Enter email",
+    "enterPassword": "Enter password",
+    "forgotPassword": "Forgot password?",
+    "login": "Login",
+    "fillDetailsCreateNewAccount": "Fill the details to create new account",
+    "alreadyHaveAccount": "Already have an account?",
+    "Create Account": "Create Account",
+    "orContinueWith": "Or continue with",
+    "welcome": "Welcome!",
+    "resetPassword": "Reset Password",
+    "validationMsgs": {
+      "Password is required": "Password is required",
+      "Enter valid email": "Enter valid email",
+      "Email is required": "Email is required",
+      "Password must be at least 8 characters": "Password must be at least 8 characters",
+      "Password should not be longer than 20 characters": "Password should not be longer than 20 characters",
+      "Confirm Password is required": "Confirm Password is required",
+      "Username should not be longer than 15 characters": "Username should not be longer than 15 characters",
+      "Name is required": "Name is required",
+      "Passwords must match": "Passwords must match"
+    }
+  },
+  "filters": {
+    "filters": "Filters",
+    "orderBy": "Order By",
+    "price": "Price",
+    "shippingTime": "Shipping time",
+    "pickupTime": "Pickup time",
+    "priceRange": "Price range",
+    "rating": "Rating",
+    "clear": "Clear",
+    "ecoFriendly": "Eco Friendly",
+    "madeInUSA": "Made In",
+    "goodDeal": "Good Deal",
+    "min": "Min",
+    "max": "Max"
+  },
+  "browse": {
+    "trending": "Trending",
+    "shopLocal": "Shop Local",
+    "byBrands": "By Brands",
+    "shopEcoFriendly": "Shop Eco-Friendly"
+  },
+  "cart": {
+    "myCart": "My Cart",
+    "emptyCart": "Empty Cart",
+    "removeFromCartConfirmation": "Do you want to remove this item from Cart?",
+    "yes": "Yes",
+    "no": "No",
+    "1": "1",
+    "subtotal": "Subtotal",
+    "items": "items",
+    "shippingFee": "Shipping Fee",
+    "total": "Total",
+    "checkOut": "Check Out"
+  },
+  "wishlist": {
+    "myWishlist": "My Wishlist",
+    "noItemsAddedInWishlist": "No items added in wishlist"
+  },
+  "category": {
+    "searchCategory": "Search Category...",
+    "failedFetchCategories": "Failed to fetch categories.",
+    "failedFetchCategoriesReloadPage": "Failed to fetch categories. Try to reload page."
+  },
+  "account": {
+    "profile": {
+      "myProfile": "My Profile",
+      "editProfile": "Edit Profile",
+      "userName":"User Name",
+      "emailAddress":"Email Address",
+      "mobile":"Mobile",
+      "birthday":"Birthday",
+      "gender":"Gender",
+      "selectGender":"Select Gender",
+      "male":"Male",
+      "female":"Female",
+      "saveProfile":"Save Profile",
+      "cancel":"Cancel"
+    },
+    "addressBook": {
+      "addressBook": "Address Book",
+      "addHomeAddress": "Add Home Address",
+      "fillDetailsForYourHomeAddress": "Fill the details to add your home address",
+      "enterYourName": "Enter your name",
+      "enterPhone": "Enter phone",
+      "enterZipCode": "Enter zip code",
+      "enterCity": "Enter city",
+      "enterStateProvince": "Enter state/province",
+      "save": "Save",
+      "enterAddress": "Enter address"
+    },
+    "statistics": {
+      "statistics": "Statistics",
+      "myStatistics": "My Statistics",
+      "mySavings": "My Savings",
+      "approxCO2Saved": "Approximate CO2 Saved",
+      "numberTreesHelpedSave": "Number of trees helped save",
+      "kgmsOceanWastePrevented": "Kilograms of ocean waste prevented",
+      "kgmsPlasticAvoided": "Kilograms of plastic avoided"
+    }
+  }
+}
